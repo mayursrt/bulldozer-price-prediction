@@ -3,7 +3,7 @@ This predicts future price of bulldozers with the use of past prices.
 
 ## Dataset : https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
-This is the code for Bluebook for Bulldozers made for [KAGGLE COMPETITION](https://www.kaggle.com/c/bluebook-for-bulldozers/overview).
+This is the code for Bluebook for Bulldozers made for [KAGGLE COMPETITION](https://www.kaggle.com/c/bluebook-for-bulldozers/overview). You can read more about this project [here](https://mlbook.explained.ai/bulldozer-intro.html).
 
 
 ## Clone Repository
